@@ -1,6 +1,9 @@
 /*
  PopCat.Click AutoClicker v1.0
 
+ <Developer>
+ miniprime1 (규민이)
+ 
  <How to use>
  (1) Open 'https://popcat.click'
  (2) Open console (F12 or Fn+F12)
